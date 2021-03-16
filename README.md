@@ -1,3 +1,3 @@
 # Mastermind Game
 
-Text-based Mastermind game
+Command-line Mastermind game
